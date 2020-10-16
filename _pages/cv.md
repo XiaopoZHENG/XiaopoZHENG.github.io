@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Cartography and Geography Information Engineering, Tongji University, 2014
+* Dr.Eng in Surveying Science and Technology, Tongji University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2015: Joint Ph.D Student
+  * [Institute for Photogrammetry](https://www.ifp.uni-stuttgart.de/en/)
+  * University of Stuttgart
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: [Prof. Dr.-Ing. Norbert Haala](https://www.ifp.uni-stuttgart.de/en/institute/team/Haala-00001/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020: Assistant Professor
+  * Sun Yat-sen University
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages**: Chinese (native), English (IELTS 6.5, fluent)
+* **Programming**: MATLAB, Python, C# for the implementation of algorithms
+* **Development and tools**: Customization of ArcGIS (ArcEngine), Git, Point cloud processing related MATLAB/Python packages
+* **Software**: ArcGIS, Photogrammetric image processing (Pix4D, Metashape), Microsoft Office, LaTex
 
 Publications
 ======
@@ -54,6 +50,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
