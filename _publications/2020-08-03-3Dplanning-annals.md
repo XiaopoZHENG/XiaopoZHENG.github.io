@@ -1,7 +1,7 @@
 ---
 title: "Three-Dimensional Path Planning of UAV Imaging For Complete Photogrammetric Reconstruction"
 collection: publications
-permalink: /publication/2020-08-03-3Dplanning-annals
+permalink: /publication/3Dplanning-annals
 excerpt: 'Model-based path planning for UAV complete and precise 3D reconstruction'
 date: 2020-08-03
 venue: 'ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.'

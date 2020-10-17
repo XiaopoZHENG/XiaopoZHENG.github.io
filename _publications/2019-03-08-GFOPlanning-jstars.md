@@ -1,7 +1,7 @@
 ---
 title: "Ground Feature Oriented Path Planning for Unmanned Aerial Vehicle Mapping"
 collection: publications
-permalink: /publication/2019-03-08-GFOPlanning-jstars
+permalink: /publication/GFOPlanning-jstars
 excerpt: 'Ground feature oriented path-planning method for UAVs mapping feature-poor area'
 date: 2019-03-08
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
