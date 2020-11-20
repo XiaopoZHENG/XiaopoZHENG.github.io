@@ -19,10 +19,11 @@ Work experience
 * Summer 2015: Joint Ph.D Student
   * [Institute for Photogrammetry](https://www.ifp.uni-stuttgart.de/en/)
   * University of Stuttgart
-  * Duties included: Tagging issues
+  * Duties included: UAV Photogrammetric data acquisition and processing, teaching assistant in integrated field work
   * Supervisor: [Prof. Dr.-Ing. Norbert Haala](https://www.ifp.uni-stuttgart.de/en/institute/team/Haala-00001/)
 
 * Fall 2020: Assistant Professor
+  * [School of Geospatial Engineering and Science](http://sges.sysu.edu.cn/)(link in Chinese)
   * Sun Yat-sen University
   
 Skills
@@ -46,8 +47,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+* Object Oriented Programming in C++ (in the future)
+* Photogrammetric Computer Vision (in the future)
+
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 
