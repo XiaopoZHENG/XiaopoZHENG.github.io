@@ -47,8 +47,9 @@ Talks
   
 Teaching
 ======
-* Object Oriented Programming in C++ (in the future)
-* Photogrammetric Computer Vision (in the future)
+  <ul>{% for post in site.teaching %} 
+    {% include archive-single-cv.html %} 
+  {% endfor %}</ul>
 
   
 
