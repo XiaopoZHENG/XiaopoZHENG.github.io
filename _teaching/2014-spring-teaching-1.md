@@ -12,7 +12,7 @@ location: "Zhuhai, China"
 
 # Slides
 Some of the slides PDF are available below (all in Chinese).
-1. [01-定量遥感-第一章-绪论-学生版.pdf](../files/quanRS/01-定量遥感-第一章-绪论-学生版.pdf)
+1. [01-定量遥感-第一章-绪论-学生版.pdf](../files/quanRS/01-定量遥感-第一章-绪论-学生版 - 副本.pdf)
 
 # Declaration
 - The slides have been collected and created by Xiaopo ZHENG from SYSU (https://xiaopozheng.github.io/).
