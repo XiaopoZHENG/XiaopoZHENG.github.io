@@ -2,7 +2,7 @@
 title: "定量遥感"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-spring-teaching-1
+permalink: /teaching/spring-teaching-1
 venue: "Sun Yat-sen University, School of Geospatial Engineering and Science"
 date: 2023-02-01
 location: "Zhuhai, China"
