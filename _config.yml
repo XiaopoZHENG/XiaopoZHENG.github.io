@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuhang Zhang"
+title                    : "Xiaopo ZHENG"
 title_separator          : "-"
-name                     : &name "Shuhang Zhang"
+name                     : &name "郑小坡(Xiaopo ZHENG)"
 description              : &description "Assistant professor at Sun Yat-sen University"
 url                      : https://shuhangz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
