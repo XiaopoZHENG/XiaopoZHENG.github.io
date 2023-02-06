@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![photo_graph](../images/photo_graph.png){:height="10%" width="10%"}
+![photo_graph](../images/photo_graph.png){:height="20%" width="20%"}
 
 I am an assistant professor at School of Geospatial Engineering and Science, Sun Yat-sen University. My research interests are thermal infrared remote sensing.
 
