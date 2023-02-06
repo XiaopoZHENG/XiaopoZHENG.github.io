@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaopo ZHENG"
+title                    : "郑小坡(Xiaopo ZHENG)"
 title_separator          : "-"
 name                     : &name "郑小坡(Xiaopo ZHENG)"
 description              : &description "Assistant professor at Sun Yat-sen University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaopo ZHENG"
   avatar           : "main_page_profile.jpg"
-  bio              : "Doctor of Engineering, Assistant professor at School of Geospatial Engineering and Science, Sun Yat-sen University. "
+  bio              : "Ph.D, Assistant professor at School of Geospatial Engineering and Science, Sun Yat-sen University. zhengxp28@mail.sysu.edu.cn"
   location         : "Zhuhai, Guangdong, China"
   employer         :
   pubmed           : 
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
