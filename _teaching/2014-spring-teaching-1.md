@@ -17,7 +17,7 @@ Some of the slides PDF are available below (all in Chinese).
 
 # Declaration
 - The slides have been collected and created by Xiaopo ZHENG from SYSU (https://xiaopozheng.github.io/).
-- Part of the slides is collected from the public information on the Internet, if there are any infringement, please contact me via email.
+- Part of the slides is collected from the public information on the Internet, if there are any infringement, please contact me to delete (email: zhengxp28@mail.sysu.edu.cn).
 
 - PPT由中山大学测绘学院郑小坡整理制作(https://xiaopozheng.github.io/).
-- 部分PPT资源来自网络，如若侵权，深感抱歉，请联系我删除（zhengxp28@mail.sysu.edu.cn）。
+- 部分PPT资源来自网络，如若侵权，深感抱歉，请联系我删除（email: zhengxp28@mail.sysu.edu.cn）。
