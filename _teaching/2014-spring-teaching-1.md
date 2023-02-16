@@ -10,15 +10,14 @@ location: "Zhuhai, China"
 # Introduction to the Course
 
 
+
 # Slides
-Some of the slides PDF are available below (all in Chinese).
-1. [01-定量遥感-第一章-绪论-学生版.pdf](../files/quanRS/01-定量遥感-第一章-绪论-学生版.pdf)
-2. [01-定量遥感-第一章-绪论-学生版 - 副本.pdf](../files/quanRS/01-定量遥感-第一章-绪论-学生版 - 副本.pdf)
-3. [01-定量遥感-第一章-绪论-学生版.rar](../files/quanRS/01-定量遥感-第一章-绪论-学生版.rar)
+The slides PDF are available below (only for undergraduate students of SYSU).
+1. [中大测绘-定量遥感-Ch01-Ch02.rar](../files/quanRS/中大测绘-定量遥感-Ch01-Ch02.rar)
 
 # Declaration
-- The slides have been collected and created by Xiaopo ZHENG from SYSU (https://xiaopozheng.github.io/).
-- Part of the slides is collected from the public information on the Internet, if there are any infringement, please contact me to delete (email: zhengxp28@mail.sysu.edu.cn).
+- The slides have been created by Xiaopo ZHENG from SYSU (https://xiaopozheng.github.io/).
+- Part of the slides is collected from the public information on the Internet and published books and journals, if there are any infringement, please contact me to delete (email: zhengxp28@mail.sysu.edu.cn).
 
-- PPT由中山大学测绘学院郑小坡整理制作(https://xiaopozheng.github.io/).
-- 部分PPT资源来自网络，如若侵权，深感抱歉，请联系我删除（email: zhengxp28@mail.sysu.edu.cn）。
+- PPT由中山大学测绘学院郑小坡制作(https://xiaopozheng.github.io/).
+- 部分PPT资源来自网络及发表的书籍与文献，如若侵权，深感抱歉，请联系我删除（email: zhengxp28@mail.sysu.edu.cn）。
