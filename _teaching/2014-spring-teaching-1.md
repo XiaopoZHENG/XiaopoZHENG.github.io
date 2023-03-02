@@ -14,6 +14,7 @@ location: "Zhuhai, China"
 # Slides
 The slides PDF are available below (only for undergraduate students of SYSU).
 1. [中大测绘-定量遥感-Ch01-Ch02.rar](../files/quanRS/中大测绘-定量遥感-Ch01-Ch02.rar)
+2. [中大测绘-定量遥感-Ch03.rar](../files/quanRS/中大测绘-定量遥感-Ch03.rar)
 
 # Declaration
 - The slides have been created by Xiaopo ZHENG from SYSU (https://xiaopozheng.github.io/).
