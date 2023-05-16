@@ -18,6 +18,7 @@ The slides PDF are available below (only for undergraduate students of SYSU).
 3. [中大测绘-定量遥感-Ch04.rar](../files/quanRS/中大测绘-定量遥感-Ch04.rar)
 4. [中大测绘-定量遥感-Ch05-Part01](../files/quanRS/中大测绘-定量遥感-Ch05-Part01.rar)
 5. [中大测绘-定量遥感-Ch05-Part02](../files/quanRS/中大测绘-定量遥感-Ch05-Part02.rar)
+6. [中大测绘-定量遥感-Ch05-Part03](../files/quanRS/中大测绘-定量遥感-Ch05-Part03.rar)
 
 # Declaration
 - The slides have been created by Xiaopo ZHENG from SYSU (https://xiaopozheng.github.io/).
