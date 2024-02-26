@@ -13,15 +13,15 @@ location: "Zhuhai, China"
 
 # Slides
 The slides PDF are available below (only for undergraduate students of SYSU).
-# 1. [中大测绘-定量遥感-Ch01-Ch02.rar](../files/quanRS/中大测绘-定量遥感-Ch01-Ch02.rar)
-# 2. [中大测绘-定量遥感-Ch03.rar](../files/quanRS/中大测绘-定量遥感-Ch03.rar)
-# 3. [中大测绘-定量遥感-Ch04.rar](../files/quanRS/中大测绘-定量遥感-Ch04.rar)
-# 4. [中大测绘-定量遥感-Ch05-Part01](../files/quanRS/中大测绘-定量遥感-Ch05-Part01.rar)
-# 5. [中大测绘-定量遥感-Ch05-Part02](../files/quanRS/中大测绘-定量遥感-Ch05-Part02.rar)
-# 6. [中大测绘-定量遥感-Ch05-Part03](../files/quanRS/中大测绘-定量遥感-Ch05-Part03.rar)
-# 7. [中大测绘-定量遥感-Ch06-Part01](../files/quanRS/中大测绘-定量遥感-Ch06-Part01.rar)
-# 8. [中大测绘-定量遥感-Ch06-Part02](../files/quanRS/中大测绘-定量遥感-Ch06-Part02.rar)
-# 9. [中大测绘-定量遥感-Ch07](../files/quanRS/中大测绘-定量遥感-Ch07.rar)
+[//]: # 1. [中大测绘-定量遥感-Ch01-Ch02.rar](../files/quanRS/中大测绘-定量遥感-Ch01-Ch02.rar)
+[//]: # 2. [中大测绘-定量遥感-Ch03.rar](../files/quanRS/中大测绘-定量遥感-Ch03.rar)
+[//]: # 3. [中大测绘-定量遥感-Ch04.rar](../files/quanRS/中大测绘-定量遥感-Ch04.rar)
+[//]: # 4. [中大测绘-定量遥感-Ch05-Part01](../files/quanRS/中大测绘-定量遥感-Ch05-Part01.rar)
+[//]: # 5. [中大测绘-定量遥感-Ch05-Part02](../files/quanRS/中大测绘-定量遥感-Ch05-Part02.rar)
+[//]: # 6. [中大测绘-定量遥感-Ch05-Part03](../files/quanRS/中大测绘-定量遥感-Ch05-Part03.rar)
+[//]: # 7. [中大测绘-定量遥感-Ch06-Part01](../files/quanRS/中大测绘-定量遥感-Ch06-Part01.rar)
+[//]: # 8. [中大测绘-定量遥感-Ch06-Part02](../files/quanRS/中大测绘-定量遥感-Ch06-Part02.rar)
+[//]: # 9. [中大测绘-定量遥感-Ch07](../files/quanRS/中大测绘-定量遥感-Ch07.rar)
 
 # Declaration
 - The slides have been created by Xiaopo ZHENG from SYSU (https://xiaopozheng.github.io/).
